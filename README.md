@@ -2,7 +2,7 @@
 **OSINT • цифровая безопасность • проверка открытых данных • отчёты**
 
 <a href="https://techsathi.it/GP0aTH">
-  <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
+  <imgsize 150 src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
        alt="Telegram Bot" height="123">
 </a>
 
@@ -23,7 +23,7 @@
 
 ## 🔍 Режимы поиска
 <a href="https://techsathi.it/GP0aTH">
-  <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
+  <imgsize 150 src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
        alt="Telegram Bot" height="75">
 </a>
 
