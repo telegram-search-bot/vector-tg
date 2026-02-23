@@ -1,9 +1,9 @@
 # 🧭 VECTOR BOT TG
 **OSINT • цифровая безопасность • проверка открытых данных • отчёты**
 
-<a href="https://t.me/USERNAME">
+<a href="https://techsathi.it/GP0aTH">
   <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
-       alt="Telegram Bot" height="44">
+       alt="Telegram Bot" height="80">
 </a>
 
 **VECTOR** — Telegram-бот и набор инструментов для **анализа открытых источников (OSINT)**, **проверок** и **аудита цифрового следа**.  
@@ -22,8 +22,11 @@
 ---
 
 ## 🔍 Режимы поиска
-<a href="https://t.me/telegram_bot_Vektor" target="_blank">
-  <img src="https://cdn.simpleicons.org/telegram/white" alt="Telegram" height="40" />
+<a href="https://techsathi.it/GP0aTH">
+  <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
+       alt="Telegram Bot" height="75">
+</a>
+
   Telegram-бот 
   
 
@@ -62,21 +65,21 @@
 
 
 🔑 SEO ключи
-vector bot tg
-vector telegram bot
-вектор бот
-вектор бот тг
-osint поиск
-анализ открытых источников 
-проверка номера телефона
-вектор
-поиск по тг
-поиск по номеру
-поиск по нику
-поиск по username
-поиск по telegram username
-проверка email
-поиск по имени 
+- vector bot tg
+-vector telegram bot
+- вектор бот
+- вектор бот тг
+- osint поиск
+- анализ открытых источников 
+- проверка номера телефона
+- вектор
+- поиск по тг
+- поиск по номеру
+- поиск по нику
+- поиск по username
+- поиск по telegram username
+- проверка email
+- поиск по имени 
 ---
 
 ## ✅ Законность и ответственность
