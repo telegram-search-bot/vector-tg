@@ -2,7 +2,7 @@
 **OSINT • цифровая безопасность • проверка открытых данных • отчёты**
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-бот-2CA5E0?logo=telegram&logoColor=white)]([https://t.me/USERNAME](https://github.com/OSINT-searcher/telegram_bot_Vektor))
+[![Telegram](https://img.shields.io/badge/Telegram-бот-2CA5E0?logo=telegram&logoColor=white)]([https://t.me/telegram_bot_Vektor)
 
 **VECTOR** — Telegram-бот и набор инструментов для **анализа открытых источников (OSINT)**, **проверок** и **аудита цифрового следа**.  
 Фокус: **скорость**, **структурированная выдача**, **минимум шума**, **удобные отчёты** и **ответственное использование**.
@@ -20,7 +20,10 @@
 ---
 
 ## 🔍 Режимы поиска
-
+<a href="https://t.me/telegram_bot_Vektor" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/white" alt="Telegram" height="18" />
+  Telegram-бот
+</a>
 ### По данным
 - 📞 **Телефон** (поиск совпадений в открытых источниках)
 - ✉️ **Email**
